@@ -1,0 +1,1 @@
+gcc -g -Wall -Wextra main.c btree/btree.c btree/btree.h -o main.exe && ./main.exe
